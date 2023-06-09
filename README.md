@@ -1,0 +1,3 @@
+# Software Engineering Best Practices
+
+These  are a set of guidelines and approaches that help ensure the development of high-quality software that is reliable, maintainable, and scalable. These practices are followed by software engineers to improve productivity, reduce risks, and deliver software projects successfully.
