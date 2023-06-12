@@ -36,6 +36,9 @@ Here are some best practices in software engineering:
 
 - Use static code analysis tools to identify potential bugs, code smells, or security vulnerabilities.
 
+#### Related Resource:
+https://github.com/kukuu/quality-assurance
+
 ## Documentation:
 - Document your codebase, including high-level architecture, important design decisions, and any complex logic.
 
