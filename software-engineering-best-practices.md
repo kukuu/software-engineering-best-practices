@@ -9,7 +9,7 @@ Here are some best practices in software engineering:
 
 - Break down complex code into smaller, reusable functions or modules.
 
-- Write unit tests to ensure code correctness and facilitate future changes.
+- Write unit tests to ensure code correctness and facilitate future changes. Use ESlint etc.
 
 ## Modularity and Reusability:
 - Design your codebase with modular components that have clear responsibilities.
