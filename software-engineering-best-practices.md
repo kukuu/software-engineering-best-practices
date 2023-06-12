@@ -34,7 +34,7 @@ Here are some best practices in software engineering:
 
 - Perform code reviews to ensure code quality and catch potential issues early.
 
-- Use static code analysis tools to identify potential bugs, code smells, or security vulnerabilities.
+- Use static code analysis tools to identify potential bugs, code smells, or security vulnerabilities (ESLint, SonarCube etc).
 
 #### Related Resource:
 https://github.com/kukuu/quality-assurance
