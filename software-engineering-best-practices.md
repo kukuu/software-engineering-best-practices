@@ -53,6 +53,8 @@ https://github.com/kukuu/quality-assurance
 
 - Follow best practices for database queries, caching, and network requests.
 
+- Manage Technical Debt efficiently
+
 ## Security:
 - Implement secure coding practices to protect against common vulnerabilities (e.g., SQL injection, cross-site scripting).
 
