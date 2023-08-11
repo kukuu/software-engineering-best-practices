@@ -107,9 +107,9 @@ https://github.com/kukuu/quality-assurance
 
       vi. DDOS Attack
 
-      vii. Authentication and Authorisation failures
+       vii. Authentication and Authorisation failures
 
-      viii. Cross-Site Scripting
+       viii. Cross-Site Scripting
 
 ix. Malware and Phishing.
 
