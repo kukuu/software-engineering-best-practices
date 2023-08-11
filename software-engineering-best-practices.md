@@ -62,6 +62,28 @@ https://github.com/kukuu/quality-assurance
 
 - Keep libraries and dependencies up to date to address security vulnerabilities.
 
+- Vulnerabilities to look out for:
+
+i. Broken Access control
+
+ii. Cryptographic failure
+
+iii.Insecure design
+
+iv. SQL Injection Attacks
+
+v. DOS Attack
+
+vi. DDOS Attack
+
+vii. Authentication and Authorisation failures
+
+viii. Cross Site Scripting
+
+ix. Malware and Phishing.
+
+x. Authentication: Used SSO, 2FA, OAuth for the Backend.
+
 ## Continuous Integration and Deployment:
 - Adopt continuous integration (CI) practices to automatically build, test, and validate code changes.
 
