@@ -95,7 +95,7 @@ https://github.com/kukuu/quality-assurance
 
 - Vulnerabilities to look out for:
 
-i. Broken Access control
+* Broken Access control
 
 ii. Cryptographic failure
 
