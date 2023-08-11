@@ -107,13 +107,13 @@ https://github.com/kukuu/quality-assurance
 
       vi. DDOS Attack
 
-       vii. Authentication and Authorisation failures
+      vii. Authentication and Authorisation failures
 
-       viii. Cross-Site Scripting
+      viii. Cross-Site Scripting
 
-ix. Malware and Phishing.
+      ix. Malware and Phishing.
 
-x. Authentication: Used SSO, 2FA, OAuth for the Backend.
+      x. Authentication: Used SSO, 2FA, OAuth for the Backend.
 
 ## Continuous Integration and Deployment:
 - Adopt continuous integration (CI) practices to automatically build, test, and validate code changes.
