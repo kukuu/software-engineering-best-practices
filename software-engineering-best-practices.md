@@ -95,21 +95,21 @@ https://github.com/kukuu/quality-assurance
 
 - Vulnerabilities to look out for:
 
-* Broken Access control
+     i. Broken Access control
 
-ii. Cryptographic failure
+      ii. Cryptographic failure
 
-iii.Insecure design
+      iii. Insecure design
 
-iv. SQL Injection Attacks
+      iv. SQL Injection Attacks
 
-v. DOS Attack
+      v. DOS Attack
 
-vi. DDOS Attack
+      vi. DDOS Attack
 
-vii. Authentication and Authorisation failures
+      vii. Authentication and Authorisation failures
 
-viii. Cross Site Scripting
+      viii. Cross-Site Scripting
 
 ix. Malware and Phishing.
 
