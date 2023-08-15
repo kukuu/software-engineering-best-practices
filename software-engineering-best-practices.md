@@ -60,8 +60,6 @@ Here are some best practices in software engineering:
 
 - Refactoring Safety: Tests should catch regressions and breakages when code is refactored.
 
-- Data Isolation: Each test should set up its own necessary data to ensure independence and avoid shared state.
-
 - Error Handling: Tests should cover error scenarios and ensure that error-handling code functions correctly.
   
 - Good commenting
