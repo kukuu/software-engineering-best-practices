@@ -116,7 +116,7 @@ https://github.com/kukuu/integration/blob/main/clent-side-caching.md
 
 - Vulnerabilities to look out for:
 
-     i. Broken Access control
+      i. Broken Access control
 
       ii. Cryptographic failure
 
