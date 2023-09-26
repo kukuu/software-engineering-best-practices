@@ -105,6 +105,8 @@ https://github.com/kukuu/quality-assurance
 
 - Manage Technical Debt efficiently
 
+https://github.com/kukuu/integration/blob/main/clent-side-caching.md
+
 ## Security:
 - Implement secure coding practices to protect against common vulnerabilities (e.g., SQL injection, cross-site scripting).
 
