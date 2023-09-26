@@ -172,10 +172,10 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 	4. Rolling back a deployed feature if it is found to be broken or unwanted must be trivial.
 
 	5. Build binaries only once. Binaries should be compiled once and once only. 
-	   The binary should then be stored someplace which is accessible only to your deployment mechanism, 
+	   The binary should then be stored in some place (perhaps s3) which is accessible only to your deployment mechanism/instances, 
 	   and your deployment mechanism should deploy this same binary to each successive environment
 
-	6. Use precisely the same mechanism to deploy to every environment. Both QA and production
+	6. Use precisely the same mechanism (Docker) to deploy to every environment. Both QA and production
 	   deployment must be both automated.
 
 	7. Smoke test your deployment. Write a smoke test and include that in the deployment process.
